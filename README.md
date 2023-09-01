@@ -52,7 +52,7 @@ for i in range(len(X)):
 
 
 ## Output:
-![best fit line](sam.png)
+
 ![Screenshot 2023-09-01 125715](https://github.com/nandhu6523/Find-the-best-fit-line-using-Least-Squares-Method/assets/123856724/b6b0d05c-3e12-44c3-af7c-6b484b61d8c4)
 
 
